@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '中西医临床医学',
-  domain: 'https://alder-sunflower-6c1.notion.site/76991e11790b4dcfb0ed16c4423208d4?v=958e5b0147af4ea481ed508683be67ea',
+  domain: 'https://alder-sunflower-6c1.notion.site/76991e11790b4dcfb0ed16c4423208d4',
   author: 'Bee',
 
   // open graph metadata (optional)
