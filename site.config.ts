@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '76991e11790b4dcfb0ed16c4423208d4',
+  rootNotionPageId: 'f3338fcc6f6d4e77808b7163954803bc',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '中西医临床医学',
-  domain: 'https://alder-sunflower-6c1.notion.site/76991e11790b4dcfb0ed16c4423208d4',
+  domain: 'https://mnizgb.notion.site/f3338fcc6f6d4e77808b7163954803bc',
   author: 'Bee',
 
   // open graph metadata (optional)
